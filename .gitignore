@@ -1,0 +1,14 @@
+﻿node_modules
+.env
+backend/.env
+frontend/.env
+
+backend/keys/private.pem
+backend/keys/public.pem
+backend/data/db.json
+backend/bin
+
+*.exe
+dist
+.vite
+.DS_Store

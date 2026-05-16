@@ -1,0 +1,15 @@
+﻿{
+  "ignore": [
+    "data/db.json",
+    "data/*.json",
+    "bin/*",
+    "keys/*"
+  ],
+  "watch": [
+    "server.js",
+    "routes",
+    "services",
+    "utils"
+  ],
+  "ext": "js,json"
+}
