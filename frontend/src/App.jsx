@@ -279,7 +279,8 @@ function HomePage({ setView }) {
 
         <div className="col-lg-5">
           <div className="visualStage">
-            <div className="steamLine steamA"></div>
+            <div className="cupScene">
+<div className="steamLine steamA"></div>
             <div className="steamLine steamB"></div>
             <div className="steamLine steamC"></div>
 
@@ -308,6 +309,7 @@ function HomePage({ setView }) {
               <strong>Audit Chain</strong>
               <span>Tamper-evident login history</span>
             </div>
+          </div>
           </div>
         </div>
       </section>
@@ -1041,6 +1043,7 @@ function AlgorithmPage({ setView }) {
 }
 
 export default App;
+
 
 
 
